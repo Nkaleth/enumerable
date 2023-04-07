@@ -2,31 +2,30 @@
 
 # 📗 Table of Contents
 
-- [📖 About the Project](#about-project)
-  - [🛠 Built With](#built-with)
-    - [Tech Stack](#tech-stack)
-    - [Key Features](#key-features)
-  - [🚀 Live Demo](#live-demo)
-- [💻 Getting Started](#getting-started)
-  - [Setup](#setup)
-  - [Prerequisites](#prerequisites)
-  - [Install](#install)
-  - [Usage](#usage)
-  - [Run tests](#run-tests)
-  - [Deployment](#deployment)
-- [👥 Authors](#authors)
-- [🔭 Future Features](#future-features)
-- [🤝 Contributing](#contributing)
-- [⭐️ Show your support](#support)
-- [🙏 Acknowledgements](#acknowledgements)
-- [❓ FAQ ](#faq)
-- [📝 License](#license)
+-   [� Table of Contents](#-table-of-contents)
+-   [📖 Enumarable ](#-enumarable-)
+    -   [🛠 Built With ](#-built-with-)
+        -   [Tech Stack ](#tech-stack-)
+        -   [Key Features ](#key-features-)
+    -   [🚀 Live Demo ](#-live-demo-)
+    -   [💻 Getting Started ](#-getting-started-)
+        -   [Prerequisites](#prerequisites)
+        -   [Setup](#setup)
+        -   [Install](#install)
+        -   [Usage](#usage)
+    -   [👥 Authors ](#-authors-)
+    -   [🔭 Future Features ](#-future-features-)
+    -   [🤝 Contributing ](#-contributing-)
+    -   [⭐️ Show your support ](#️-show-your-support-)
+    -   [🙏 Acknowledgments ](#-acknowledgments-)
+    -   [❓ FAQ ](#-faq-)
+    -   [📝 License ](#-license-)
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 Decode a Morse code message <a name="about-project"></a>
+# 📖 Enumarable <a name="about-project"></a>
 
-**Decode a Morse code message** is a ruby based program to decode morse messages.
+In this project we will learn how to use a module inside a class.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -43,10 +42,9 @@
 
 ### Key Features <a name="key-features"></a>
 
-
-- **Run a program using the command line.**
-- **Use Ruby syntax for basic programming operations.**
-- **Use Ruby to solve basic coding challenges.**
+-   **Run a program using the command line.**
+-   **Use Ruby syntax for basic programming operations.**
+-   **Use Ruby to solve basic coding challenges.**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -54,7 +52,7 @@
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [N/A]()
+-   [N/A]()
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -68,7 +66,7 @@ To get a local copy up and running, follow these steps.
 
 In order to run this project you need:
 
-- Ruby 3.2.2
+-   Ruby 3.2.2
 
 ### Setup
 
@@ -76,7 +74,7 @@ Clone this repository to your desired folder:
 
 ```sh
   cd my-folder
-  git clone git@github.com:Nkaleth/Morse-code-message.git
+  git clone git@github.com:Nkaleth/enumerable.git
 ```
 
 ### Install
@@ -99,21 +97,21 @@ To run the project, execute the following command:
 
 👤 **Nilton Segura**
 
-- GitHub: [@Nkaleth](https://github.com/Nkaleth)
-- Twitter: [@NoeSeguraL](https://twitter.com/NoeSeguraL)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/niltonsegura/)
+-   GitHub: [@Nkaleth](https://github.com/Nkaleth)
+-   Twitter: [@NoeSeguraL](https://twitter.com/NoeSeguraL)
+-   LinkedIn: [LinkedIn](https://www.linkedin.com/in/niltonsegura/)
 
 👤 **Hans-Derly Rameau**
 
-- GitHub: [@hansderly](https://github.com/hansderly)
-- Twitter: [@\_hansderly](https://twitter.com/_hansderly)
-- LinkedIn: [ansderly-rameau](https://linkedin.com/in/ansderly-rameau/)
+-   GitHub: [@hansderly](https://github.com/hansderly)
+-   Twitter: [@\_hansderly](https://twitter.com/_hansderly)
+-   LinkedIn: [ansderly-rameau](https://linkedin.com/in/ansderly-rameau/)
 
 👤 **Dennis Every**
 
-- GitHub: [@dennis-every](https://github.com/dennis-every)
-- Twitter: [@dennis_every](https://twitter.com/dennis_every)
-- LinkedIn: [dennis-every](https://www.linkedin.com/in/dennis-every/)
+-   GitHub: [@dennis-every](https://github.com/dennis-every)
+-   Twitter: [@dennis_every](https://twitter.com/dennis_every)
+-   LinkedIn: [dennis-every](https://www.linkedin.com/in/dennis-every/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -121,7 +119,7 @@ To run the project, execute the following command:
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- none
+-   none
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -157,13 +155,13 @@ I would like to thank Microverse for the information provided to build this proj
 
 ## ❓ FAQ <a name="faq"></a>
 
-- **Can I use the project for any purpose?**
+-   **Can I use the project for any purpose?**
 
-  - Yes, you can use this files for anything you need
+    -   Yes, you can use this files for anything you need
 
-- **Do I need to ask for permission?**
+-   **Do I need to ask for permission?**
 
-  - No need to ask for permission.
+    -   No need to ask for permission.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
