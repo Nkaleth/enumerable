@@ -2,7 +2,7 @@
 
 # 📗 Table of Contents
 
--   [� Table of Contents](#-table-of-contents)
+-   [📗 Table of Contents](#-table-of-contents)
 -   [📖 Enumarable ](#-enumarable-)
     -   [🛠 Built With ](#-built-with-)
         -   [Tech Stack ](#tech-stack-)
@@ -52,7 +52,7 @@ In this project we will learn how to use a module inside a class.
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
--   [N/A]()
+-   [N/A]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -119,7 +119,7 @@ To run the project, execute the following command:
 
 ## 🔭 Future Features <a name="future-features"></a>
 
--   none
+-   Add more enumarables
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 

@@ -1,4 +1,3 @@
-# require './my_enumerable.rb'
 module MyEnumerable
   def all?
     if block_given?
